@@ -1,0 +1,75 @@
+/* ==================
+   Media Queries
+   ================== */
+
+@media only screen and (min-width: 768px) {
+
+	.wrapper{
+		width: 90%;
+		margin: 0 5%;	
+	}
+
+	.main-menu a{
+		font-size: 1.3em;
+		padding: 5px 15px;
+		margin: 10px 5px;
+	}
+
+	.homepage .img-container{
+		float: left;
+	}
+	
+	.home-content{
+		position: relative;
+		text-align: center;
+	}
+	
+	.social-links{
+		margin-top: 15px;
+	}
+	
+	.main-content.homepage{
+		margin: 0;
+	}
+	
+	.main-footer .row > div{
+		margin: 0;
+	}
+	
+	.westca-copyright{
+		text-align: left
+	}
+	
+	.mexo-copyright{
+		text-align: right;
+	}
+
+}
+
+@media only screen and (min-width: 992px) {
+
+	.logo{
+		float: left;
+	}
+
+	.main-menu{
+		float: right;
+	}
+	
+	a.btn-big{
+		font-size: 1.5em;
+	}
+	
+	.social-links{
+		margin-top: 30px;
+	}
+	
+}
+
+@media only screen and (min-width: 1200px) {
+
+	.homepage .img-container{
+		margin-top: -50px;
+	}
+
+}

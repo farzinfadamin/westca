@@ -1,0 +1,53 @@
+/* ==================
+   Homepage Styles
+   ================== */
+
+.homepage .img-container{
+	text-align: center;
+	max-width: 500px;
+	margin: -20px auto 0;
+}
+
+.homepage .img-container img{
+	width: 100%;
+}
+
+.home-content{
+	position: relative;
+	text-align: center;
+}
+
+.home-content hgroup{
+	text-align: center;
+	padding: 10px 0;
+}
+
+.home-content h3{
+	margin: 0;
+}
+
+.home-content h2{
+	margin: 5px 0;
+	font-size: 2em;
+}
+
+.discount{
+	position: relative;
+	color: #999;
+}
+
+.discount:before{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 2;
+	display: block;
+	width: 120%;
+	height: 2px;
+	margin-left: -60%;
+	content: "";
+	background: red;
+	-webkit-transform: rotate(-30deg);
+	-moz-transform: rotate(-30deg);
+	transform: rotate(-30deg);
+}
