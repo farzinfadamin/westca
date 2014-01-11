@@ -4,6 +4,10 @@
 
 @media only screen and (min-width: 768px) {
 
+	.sm-screen{ display: none; }
+
+    .lg-screen{ display: block; }	
+
 	.wrapper{
 		width: 90%;
 		margin: 0 5%;	
@@ -43,7 +47,56 @@
 	.mexo-copyright{
 		text-align: right;
 	}
+	
+	.inner-banner{
+		width: 100%;
+		position: relative;
+		overflow: hidden;
+		min-height: 350px;
+	}
+	
+	.inner-banner > img{
+		width: 100%;
+		position: absolute;
+		top: 0;
+	}
 
+	.inner-banner aside{
+		position: absolute;
+		margin: 0 5%;
+		top: 80px;
+		width: 620px;
+		padding: 20px;
+		background-color: rgba(255,255,255,.5);
+	}
+
+	.inner-banner aside h2{
+		margin: 0;
+		font-size: 30px;
+	}
+
+	.inner-banner aside p{
+		margin: 0;
+		font-size: 20px;
+	}
+	
+	.premium-plan{ float: left; }
+
+	.basic-plan{ float: right; }
+	
+	.box-plan{
+		width: 380px;
+		height: 500px;
+	}
+	
+	.one-time-payment{ float: right; }
+	
+	.monthly-payment{ float: left; }
+	
+	.box-payment{
+		width: 340px;
+		height: 220px;
+	}
 }
 
 @media only screen and (min-width: 992px) {
@@ -56,20 +109,24 @@
 		float: right;
 	}
 	
-	a.btn-big{
-		font-size: 1.5em;
-	}
-	
-	.social-links{
-		margin-top: 30px;
-	}
-	
 }
 
 @media only screen and (min-width: 1200px) {
 
 	.homepage .img-container{
-		margin-top: -50px;
+		margin-top: -20px;
+	}
+	
+	.home-content{
+		margin-top: 40px;
+	}
+	
+	.home-content p{
+		font-size: 20px;
+	}
+	
+	a.btn-big{
+		font-size: 1.5em;
 	}
 
 }

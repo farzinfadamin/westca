@@ -1,0 +1,152 @@
+/* ==================
+   Plans Inner Styles
+   ================== */
+
+.plan-header{
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+}  
+
+.plan-header h2{
+	font-size: 35px;
+	margin: 1em 0 0;
+}
+
+.plan-header p{
+	font-size: 20px;
+	margin: 0 0 1em;
+}
+
+.plan-features{
+	margin: 2em 0;
+}
+
+.plan-features > [class *=" col-"],
+.plan-features > [class ^="col-"]{
+	margin-bottom: 1em;
+}
+   
+.item-box{
+	width: 220px;
+	height: 300px;
+	margin: 0 auto 20px;
+	overflow: hidden;
+	background-color: #fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.75);
+	-moz-box-shadow: 0 1px 1px rgba(0,0,0,.75);
+	box-shadow: 0 1px 1px rgba(0,0,0,.75);
+}
+
+.item-box section{
+	padding: 15px;
+}
+	
+.item-box section h3{
+	font-size: 18px;
+	margin: 0 0 1em;
+	height: 45px;
+}
+
+.item-box section .check-list{
+	margin: 0;
+}
+
+.item-box section p{
+	margin: 0;
+}
+
+
+.payment-section{
+	text-align: center;
+}
+
+.payment-section > header p{
+	margin: 0;
+	font-size: 20px;
+}
+
+.payment-section > header h2{
+	margin-top: 0;
+	font-size: 25px;
+}
+
+.box-payment{
+	width: 300px;
+	height: 220px;
+	margin: 0 auto;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #f1f1f1;
+	border: solid 1px #c6c6c6;
+	font-size: 20px;
+	color: #333;
+	margin-bottom: 20px;
+	display: block;
+}
+
+.box-payment.selected,
+.box-payment:hover{
+	border-color: #41adbe;
+}
+
+.box-payment h5{
+	margin-bottom: 0;
+	height: 45px;
+}
+
+.box-payment h5 span{
+	font-size: 15px;
+	font-family: "Montreal";
+	font-weight: normal;
+	color: #888;
+}
+
+.box-payment h4{
+	font-size: 35px;
+	margin: 0;
+}
+
+.box-payment h4 small{
+	font-size: 20px;
+}
+
+.box-payment .save-percent{
+	font-size: 18px;
+	color: #cb7841;
+}
+
+.radiobox{
+	width: 24px;
+	height: 24px;
+	padding: 3px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	background: none;
+	border: solid 2px #c9c9c9;
+	cursor: pointer;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.radiobox span{	
+	display: none;
+	width: 14px;
+	height: 14px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	background-color: #41adbe;
+}
+
+.selected .radiobox span{
+	display: block;
+}
+
+.payment-section .btn-big{
+	margin-bottom: 20px;
+}

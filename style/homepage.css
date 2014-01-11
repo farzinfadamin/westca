@@ -1,6 +1,11 @@
 /* ==================
    Homepage Styles
    ================== */
+   
+.main-header{
+	padding: 40px 0;
+	background: none;
+}
 
 .homepage .img-container{
 	text-align: center;
