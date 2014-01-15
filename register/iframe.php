@@ -5,7 +5,7 @@
 <meta name="fragment" content="!">
 <base target="_blank">
 
-<link href='https://docs.google.com/static/forms/client/css/753012786-formview_embedded_ltr.css' type='text/css' rel='stylesheet'>
+<link href='https://docs.google.com/static/forms/client/css/1136591106-formview_embedded_ltr.css' type='text/css' rel='stylesheet'>
 <style type="text/css">
         body.ss-base-body {
   font-family: Arial,sans-serif;
@@ -56,30 +56,33 @@ div.ss-submit div.ss-form-entry {
 
 <div class="ss-form-container"><div class="ss-top-of-page">
 
-
 <div class="ss-form-heading"><h1 class="ss-form-title" dir="ltr">Questions for Future Athletes</h1>
 
 
 <hr class="ss-email-break" style="display:none;">
 <div class="ss-required-asterisk">* Required</div></div></div>
-<div class="ss-form"><form action="https://docs.google.com/a/mexo.co/forms/d/1ChXMYkB08dFG5FbX8G0pRB8-tf0XciMLyY7jxS4YGkc/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol style="padding-left: 0">
+<div class="ss-form"><form action="https://docs.google.com/forms/d/1ChXMYkB08dFG5FbX8G0pRB8-tf0XciMLyY7jxS4YGkc/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol style="padding-left: 0">
 <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_96071365"><div class="ss-q-title">Fullname
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_96071365"><div class="ss-q-title">Fullname
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.96071365" value="" class="ss-q-short" id="entry_96071365" dir="auto" aria-label="Fullname  " aria-required="true" required="" title="">
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
+<div style="margin-top: 10px">
+	<a href="http://dbinbox.com/westca" target="_blank">Upload you picture</a> Please enter your name and lastname in your image title. ( Example: john-ive.jpeg)
+
+</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-date"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_645231675"><div class="ss-q-title">Date you received this form:
+<div dir="ltr" class="ss-item  ss-date"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_645231675"><div class="ss-q-title">Date you received this form:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="date" name="entry.645231675" value="" class="ss-q-date" dir="auto" id="entry_645231675" aria-label="Date you received this form:  ">
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_132486975"><div class="ss-q-title">Email Address
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_132486975"><div class="ss-q-title">Email Address
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
@@ -88,7 +91,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1364208533"><div class="ss-q-title">Phone Number
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1364208533"><div class="ss-q-title">Phone Number
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
@@ -97,7 +100,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_352927173"><div class="ss-q-title">Age
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_352927173"><div class="ss-q-title">Age
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.352927173" value="" class="ss-q-short" id="entry_352927173" dir="auto" aria-label="Age  " title="">
@@ -105,7 +108,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_256093449"><div class="ss-q-title">Height
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_256093449"><div class="ss-q-title">Height
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.256093449" value="" class="ss-q-short" id="entry_256093449" dir="auto" aria-label="Height  " title="">
@@ -113,7 +116,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_2109310792"><div class="ss-q-title">Injuries / Health Issues
+<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_2109310792"><div class="ss-q-title">Injuries / Health Issues
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <textarea name="entry.2109310792" rows="8" cols="0" class="ss-q-long" id="entry_2109310792" dir="auto" aria-label="Injuries / Health Issues  "></textarea>
@@ -121,7 +124,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1841421883"><div class="ss-q-title">Current Weight
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1841421883"><div class="ss-q-title">Current Weight
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1841421883" value="" class="ss-q-short" id="entry_1841421883" dir="auto" aria-label="Current Weight  " title="">
@@ -129,7 +132,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_2026312151"><div class="ss-q-title">Goal Weight
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_2026312151"><div class="ss-q-title">Goal Weight
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.2026312151" value="" class="ss-q-short" id="entry_2026312151" dir="auto" aria-label="Goal Weight  " title="">
@@ -137,7 +140,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_212656347"><div class="ss-q-title">Occupation
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_212656347"><div class="ss-q-title">Occupation
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.212656347" value="" class="ss-q-short" id="entry_212656347" dir="auto" aria-label="Occupation  " title="">
@@ -145,19 +148,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_851757473"><div class="ss-q-title">Marital Status
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-
-<ul class="ss-choices" role="radiogroup" aria-label="Marital Status  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1358177636" value="Married" id="group_1358177636_1" role="radio" class="ss-q-radio" aria-label="Married"></span>
-<span class="ss-choice-label">Married</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1358177636" value="Single" id="group_1358177636_2" role="radio" class="ss-q-radio" aria-label="Single"></span>
-<span class="ss-choice-label">Single</span>
-</label></li></ul>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1134158349"><div class="ss-q-title">Do you smoke?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1134158349"><div class="ss-q-title">Do you smoke?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -169,15 +160,7 @@ div.ss-submit div.ss-form-entry {
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1722335703"><div class="ss-q-title">Do you have Children, If yes how many ?
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<input type="text" name="entry.1722335703" value="" class="ss-q-short" id="entry_1722335703" dir="auto" aria-label="Do you have Children, If yes how many ?  " title="">
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1282070067"><div class="ss-q-title">Goal Date
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1282070067"><div class="ss-q-title">Goal Date
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1282070067" value="" class="ss-q-short" id="entry_1282070067" dir="auto" aria-label="Goal Date  " title="">
@@ -185,7 +168,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1297721438"><div class="ss-q-title">Do you drink ?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1297721438"><div class="ss-q-title">Do you drink ?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -197,7 +180,7 @@ div.ss-submit div.ss-form-entry {
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1118541758"><div class="ss-q-title">Allergic to any foods
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1118541758"><div class="ss-q-title">Allergic to any foods
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -205,11 +188,14 @@ div.ss-submit div.ss-form-entry {
 <span class="ss-choice-label">Yes</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.549964336" value="No" id="group_549964336_2" role="radio" class="ss-q-radio" aria-label="No"></span>
 <span class="ss-choice-label">No</span>
-</label></li></ul>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.549964336" value="__other_option__" id="group_549964336_3" role="radio" class="ss-q-radio ss-q-other-toggle"></span>
+Other:</label>
+<span class="ss-q-other-container goog-inline-block"><input type="text" name="entry.549964336.other_option_response" value="" class="ss-q-other" id="entry_549964336_other_option_response" dir="auto" aria-label="Other"></span>
+</li></ul>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1509239527"><div class="ss-q-title">Ethnicity
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1509239527"><div class="ss-q-title">Ethnicity
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1509239527" value="" class="ss-q-short" id="entry_1509239527" dir="auto" aria-label="Ethnicity  " title="">
@@ -217,7 +203,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_215917612"><div class="ss-q-title">Do you stress ?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_215917612"><div class="ss-q-title">Do you stress ?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -229,7 +215,7 @@ div.ss-submit div.ss-form-entry {
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_973956276"><div class="ss-q-title">List you Competition History and what you placed: State never if you never competed.
+<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_973956276"><div class="ss-q-title">List you Competition History and what you placed: State never if you never competed.
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <textarea name="entry.973956276" rows="8" cols="0" class="ss-q-long" id="entry_973956276" dir="auto" aria-label="List you Competition History and what you placed: State never if you never competed.  "></textarea>
@@ -237,7 +223,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1755306574"><div class="ss-q-title">If you want to compete, please state the name of the competition and identify the date of the event.
+<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1755306574"><div class="ss-q-title">If you want to compete, please state the name of the competition and identify the date of the event.
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <textarea name="entry.1755306574" rows="8" cols="0" class="ss-q-long" id="entry_1755306574" dir="auto" aria-label="If you want to compete, please state the name of the competition and identify the date of the event.  "></textarea>
@@ -245,7 +231,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_335777010"><div class="ss-q-title">When I stress out I:
+<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_335777010"><div class="ss-q-title">When I stress out I:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <textarea name="entry.335777010" rows="8" cols="0" class="ss-q-long" id="entry_335777010" dir="auto" aria-label="When I stress out I:  "></textarea>
@@ -253,7 +239,7 @@ div.ss-submit div.ss-form-entry {
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1290687414"><div class="ss-q-title">I agree to send weekly photos so you can view my progress:
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1290687414"><div class="ss-q-title">I agree to send weekly photos so you can view my progress:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -265,15 +251,7 @@ div.ss-submit div.ss-form-entry {
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_407147797"><div class="ss-q-title">List your hobbies:
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.407147797" rows="8" cols="0" class="ss-q-long" id="entry_407147797" dir="auto" aria-label="List your hobbies:  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1754739372"><div class="ss-q-title">What is/are your goal (s)?
+<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1754739372"><div class="ss-q-title">What is/are your goal (s)?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -302,7 +280,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1859855765"><div class="ss-q-title">Mark the following that you do NOT like:
+<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1859855765"><div class="ss-q-title">Mark the following that you do NOT like:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -326,7 +304,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1326374336"><div class="ss-q-title">Mark the following that you do NOT like:
+<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1326374336"><div class="ss-q-title">Mark the following that you do NOT like:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -348,7 +326,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_661189303"><div class="ss-q-title">Mark the following that you do NOT like
+<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_661189303"><div class="ss-q-title">Mark the following that you do NOT like
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -370,7 +348,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_524071561"><div class="ss-q-title">Mark the following that you do NOT like
+<div dir="ltr" class="ss-item  ss-checkbox"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_524071561"><div class="ss-q-title">Mark the following that you do NOT like
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -390,7 +368,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_77240263"><div class="ss-q-title">How many days can you make it to the gym during the week?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_77240263"><div class="ss-q-title">How many days can you make it to the gym during the week?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -408,7 +386,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1028390988"><div class="ss-q-title">How long can you stay at the gym?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1028390988"><div class="ss-q-title">How long can you stay at the gym?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -426,41 +404,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1786867899"><div class="ss-q-title">How close is your home to the gym where you train?
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-
-<ul class="ss-choices" role="radiogroup" aria-label="How close is your home to the gym where you train?  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2038517061" value="10 mins." id="group_2038517061_1" role="radio" class="ss-q-radio" aria-label="10 mins."></span>
-<span class="ss-choice-label">10 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2038517061" value="20 mins." id="group_2038517061_2" role="radio" class="ss-q-radio" aria-label="20 mins."></span>
-<span class="ss-choice-label">20 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2038517061" value="30 mins." id="group_2038517061_3" role="radio" class="ss-q-radio" aria-label="30 mins."></span>
-<span class="ss-choice-label">30 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2038517061" value="45 mins." id="group_2038517061_4" role="radio" class="ss-q-radio" aria-label="45 mins."></span>
-<span class="ss-choice-label">45 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.2038517061" value="1 hr. +" id="group_2038517061_5" role="radio" class="ss-q-radio" aria-label="1 hr. +"></span>
-<span class="ss-choice-label">1 hr. +</span>
-</label></li></ul>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_482679666"><div class="ss-q-title">How close is your gym to where you work?
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-
-<ul class="ss-choices" role="radiogroup" aria-label="How close is your gym to where you work?  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1082920741" value="Approx. 10 mins." id="group_1082920741_1" role="radio" class="ss-q-radio" aria-label="Approx. 10 mins."></span>
-<span class="ss-choice-label">Approx. 10 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1082920741" value="25 mins." id="group_1082920741_2" role="radio" class="ss-q-radio" aria-label="25 mins."></span>
-<span class="ss-choice-label">25 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1082920741" value="45 mins." id="group_1082920741_3" role="radio" class="ss-q-radio" aria-label="45 mins."></span>
-<span class="ss-choice-label">45 mins.</span>
-</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1082920741" value="1 hr+" id="group_1082920741_4" role="radio" class="ss-q-radio" aria-label="1 hr+"></span>
-<span class="ss-choice-label">1 hr+</span>
-</label></li></ul>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1346945422"><div class="ss-q-title">Where do you train? Or Where are you going to train?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1346945422"><div class="ss-q-title">Where do you train? Or Where are you going to train?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -475,7 +419,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_807943146"><div class="ss-q-title">Approximately how much time you currently spend at the gym ?
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_807943146"><div class="ss-q-title">Approximately how much time you currently spend at the gym ?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -493,7 +437,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_2047786102"><div class="ss-q-title">I struggle with dieting because: Put N/A if this is not a problem
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_2047786102"><div class="ss-q-title">I struggle with dieting because: Put N/A if this is not a problem
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.2047786102" value="" class="ss-q-short" id="entry_2047786102" dir="auto" aria-label="I struggle with dieting because: Put N/A if this is not a problem  " title="">
@@ -501,55 +445,7 @@ Other:</label>
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1830586869"><div class="ss-q-title">Your Daily Schedule/Routine:
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr">Example: 630 am – Wake Up &amp; Get ready for work 730 am – Breakfast &amp; take kids to school Take Vitamins etc. 830 am – Work 10 am – Break 12 pm – Lunch 230 pm – Break 5 pm – Off of work / Homework with kids 6 pm – Gym – Weights &amp; Cardio 8 pm - Prepare dinner 9 pm – Go to bed</div></label>
-<textarea name="entry.1830586869" rows="8" cols="0" class="ss-q-long" id="entry_1830586869" dir="auto" aria-label="Your Daily Schedule/Routine: Example: 630 am – Wake Up &amp; Get ready for work 730 am – Breakfast &amp; take kids to school Take Vitamins etc. 830 am – Work 10 am – Break 12 pm – Lunch 230 pm – Break 5 pm – Off of work / Homework with kids 6 pm – Gym – Weights &amp; Cardio 8 pm - Prepare dinner 9 pm – Go to bed "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1636075522"><div class="ss-q-title">For breakfast I normally eat (If nothing put nothing):
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.1636075522" rows="8" cols="0" class="ss-q-long" id="entry_1636075522" dir="auto" aria-label="For breakfast I normally eat (If nothing put nothing):  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1993072992"><div class="ss-q-title">For lunch I normally eat (If nothing put nothing):
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.1993072992" rows="8" cols="0" class="ss-q-long" id="entry_1993072992" dir="auto" aria-label="For lunch I normally eat (If nothing put nothing):  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_2017239374"><div class="ss-q-title">For dinner I normally eat (If nothing put nothing):
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.2017239374" rows="8" cols="0" class="ss-q-long" id="entry_2017239374" dir="auto" aria-label="For dinner I normally eat (If nothing put nothing):  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_700202543"><div class="ss-q-title">List Additional Meals and Times:
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.700202543" rows="8" cols="0" class="ss-q-long" id="entry_700202543" dir="auto" aria-label="List Additional Meals and Times:  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_649816296"><div class="ss-q-title">When I get hungry I snack on (If nothing put nothing):
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.649816296" rows="8" cols="0" class="ss-q-long" id="entry_649816296" dir="auto" aria-label="When I get hungry I snack on (If nothing put nothing):  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_553567155"><div class="ss-q-title">If I was allowed a cheat day, I would prefer it to be on:
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_553567155"><div class="ss-q-title">If I was allowed a cheat day, I would prefer it to be on:
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 
@@ -571,15 +467,7 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_127839881"><div class="ss-q-title">Important additional information: When I was in the best shape of my life I: I went to the gym days a week. Incorporated resistance training into my workout routine _______________ times a week. I did ________ minutes of cardio a day ______________ times a week. I used the following supplements:
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.127839881" rows="8" cols="0" class="ss-q-long" id="entry_127839881" dir="auto" aria-label="Important additional information: When I was in the best shape of my life I: I went to the gym days a week. Incorporated resistance training into my workout routine _______________ times a week. I did ________ minutes of cardio a day ______________ times a week. I used the following supplements:  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1101722674"><div class="ss-q-title">Those that have competed before. Please indicate your Coach’s Name ?
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1101722674"><div class="ss-q-title">Those that have competed before. Please indicate your Coach’s Name ?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1101722674" value="" class="ss-q-short" id="entry_1101722674" dir="auto" aria-label="Those that have competed before. Please indicate your Coach’s Name ?  " title="">
@@ -587,7 +475,7 @@ Other:</label>
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1326090922"><div class="ss-q-title">Those that have competed before. Please indicate your Trainer’s Name ?
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1326090922"><div class="ss-q-title">Those that have competed before. Please indicate your Trainer’s Name ?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1326090922" value="" class="ss-q-short" id="entry_1326090922" dir="auto" aria-label="Those that have competed before. Please indicate your Trainer’s Name ?  " title="">
@@ -595,7 +483,7 @@ Other:</label>
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1998348477"><div class="ss-q-title">Those that have competed before. Please indicate your Pre-contest diet ?
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1998348477"><div class="ss-q-title">Those that have competed before. Please indicate your Pre-contest diet ?
 </div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <input type="text" name="entry.1998348477" value="" class="ss-q-short" id="entry_1998348477" dir="auto" aria-label="Those that have competed before. Please indicate your Pre-contest diet ?  " title="">
@@ -603,15 +491,7 @@ Other:</label>
 <div class="required-message">This is a required question</div>
 
 </div></div></div> <div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1080547499"><div class="ss-q-title">Those that have competed before. Please indicate your Workouts (Body part breakdown and schedule) ?
-</div>
-<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-<textarea name="entry.1080547499" rows="8" cols="0" class="ss-q-long" id="entry_1080547499" dir="auto" aria-label="Those that have competed before. Please indicate your Workouts (Body part breakdown and schedule) ?  "></textarea>
-<div class="error-message"></div>
-<div class="required-message">This is a required question</div>
-
-</div></div></div><div class="ss-form-question errorbox-good">
-<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1787436780"><div class="ss-q-title">Signature or Initials &amp; The date you submitted this form
+<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1787436780"><div class="ss-q-title">Signature or Initials &amp; The date you submitted this form
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
@@ -619,12 +499,20 @@ Other:</label>
 <div class="error-message"></div>
 <div class="required-message">This is a required question</div>
 
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item  ss-paragraph-text"><div class="ss-form-entry"><label aria-hidden="true" class="ss-q-item-label" for="entry_1485210159"><div class="ss-q-title">Message to the trainer
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.1485210159" rows="8" cols="0" class="ss-q-long" id="entry_1485210159" dir="auto" aria-label="Message to the trainer  "></textarea>
+<div class="error-message"></div>
+<div class="required-message">This is a required question</div>
+
 </div></div></div>
-<input type="hidden" name="draftResponse" value="[,,&quot;-7341498637600956216&quot;]
+<input type="hidden" name="draftResponse" value="[,,&quot;-189698057191530084&quot;]
 ">
 <input type="hidden" name="pageHistory" value="0">
 
-<input type="hidden" name="fbzx" value="-7341498637600956216">
+<input type="hidden" name="fbzx" value="-189698057191530084">
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 <input type="submit" name="submit" value="Submit" id="ss-submit">
@@ -644,7 +532,7 @@ Other:</label>
 
 <div id="docs-aria-speakable" class="docs-a11y-ariascreenreader-speakable docs-offscreen" aria-live="assertive" role="region" aria-atomic></div></div>
 
-<script type='text/javascript' src='https://docs.google.com/static/forms/client/js/2116918858-formviewer_prd.js'></script>
+<script type='text/javascript' src='https://docs.google.com/static/forms/client/js/1262724199-formviewer_prd.js'></script>
 <script type="text/javascript">H5F.setup(document.getElementById('ss-form'));_initFormViewer(
         "[100,\x22#0b61a4\x22,[[[132486975,[[2,102,,\x22\x22]\n]\n]\n]\n]\n]\n");
     </script></body></html>
