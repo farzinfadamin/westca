@@ -207,15 +207,15 @@ a:link{
 	text-align: center;
 }
 
-a.btn-register{
+.btn-register{
 	border: 1px solid #3cbc4e !important;
-	color: #3cbc4e;
+	color: #3cbc4e !important;
 	padding: 5px 10px;
 }
 
-.no-touch a.btn-register:hover{
+.no-touch .btn-register:hover{
 	background-color: #3cbc4e;
-	color: #fff;
+	color: #fff !important;
 }
 
 .btn-big{
@@ -235,13 +235,13 @@ a.btn-register{
 	background: none;
 }
 
-a.btn-blue{
+.btn-blue{
 	background-color: #3cabbc;
 	border: 2px solid transparent;
 	color: #fff;
 }
 
-.no-touch a.btn-blue:hover{
+.no-touch .btn-blue:hover{
 	border: 2px solid #3cabbc;
 	color: #3cabbc;
 	background: none;
@@ -363,6 +363,10 @@ a.btn-blue{
 
 .invisible{
     visibility: hidden;
+}
+
+.text-center{
+    text-align: center;
 }
 
 
