@@ -218,12 +218,12 @@ a.btn-register{
 	color: #fff;
 }
 
-a.btn-big{
+.btn-big{
 	padding: 10px 40px;
 	font-size: 1.5em;
 }
 
-a.btn-green{
+.btn-green{
 	background-color: #3cbc4e;
 	border: 2px solid transparent;
 	color: #fff;
