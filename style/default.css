@@ -185,11 +185,12 @@ a:link{
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
+    border: 1px solid #f6f6f6;
 }
 
 .no-touch .main-menu a:hover{
-	background-color: #111;
-	color: #e2e2e2;
+    border: 1px solid #3cbc4e;
+    color: #3cbc4e;
 }
 
 .btn,
@@ -203,7 +204,7 @@ a:link{
 }
 
 a.btn-register{
-	border: 1px solid #3cbc4e;
+	border: 1px solid #3cbc4e !important;
 	color: #3cbc4e;
 	padding: 5px 10px;
 }
