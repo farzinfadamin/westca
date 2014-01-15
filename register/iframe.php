@@ -68,9 +68,9 @@
                         <div class="ss-form-entry">
                            <label aria-hidden="true" class="ss-q-item-label" for="entry_96071365">
                               <div class="ss-q-title">Fullname
-                           <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-                           <span class="ss-required-asterisk">*</span></div>
-                           <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
+							   <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+							   <span class="ss-required-asterisk">*</span></div>
+							   <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
                            </label>
                            <input type="text" name="entry.96071365" value="" class="ss-q-short" id="entry_96071365" dir="auto" aria-label="Fullname  " aria-required="true" required="" title="">
                            <div class="error-message"></div>
@@ -98,9 +98,9 @@
                         <div class="ss-form-entry">
                            <label aria-hidden="true" class="ss-q-item-label" for="entry_132486975">
                               <div class="ss-q-title">Email Address
-                           <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-                           <span class="ss-required-asterisk">*</span></div>
-                           <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
+							   <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+							   <span class="ss-required-asterisk">*</span></div>
+							   <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
                            </label>
                            <input type="email" name="entry.132486975" value="" class="ss-q-short" id="entry_132486975" dir="auto" aria-label="Email Address  Must be a valid email address" aria-required="true" required="" title="Must be a valid email address">
                            <div class="error-message">Must be a valid email address</div>

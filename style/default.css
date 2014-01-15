@@ -166,6 +166,10 @@ a:link{
 	float: left;
 }
 
+.float-none{
+    float: none !important;
+}
+
 .main-header{
 	padding: 20px 0;
 	text-align: center;
