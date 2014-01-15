@@ -170,6 +170,7 @@ a:link{
 	padding: 20px 0;
 	text-align: center;
 	background: #f6f6f6;
+    border-bottom: 2px solid #3cbc4e;
 }
 
 .main-header .logo{
