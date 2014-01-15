@@ -62,4 +62,21 @@ $(document).ready(function(){
 		$(this).parent().toggleClass('active');
 		$(this).next('p').stop().slideToggle(400);
 	});
+	
+	
+	
+	$(".box-payment").on("click", function(){
+		$(".box-payment").removeClass("selected");
+		$(this).addClass("selected");
+		
+		if($(this).hasClass("one-time-payment")){
+			$(".premium-onetime-paypal").removeClass("hidden").show();
+			$(".premium-subscription-paypal").hide();
+		}else if($(this).hasClass("monthly-payment")){
+			$(".premium-onetime-paypal").hide();
+			$(".premium-subscription-paypal").removeClass("hidden").show();
+		}
+		
+	});
+	
 });
