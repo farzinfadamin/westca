@@ -60,13 +60,6 @@
 	margin-bottom: 5px;
 }
 
-.required-message,
-.error-message {
-	color: #c43b1d;
-	display: none;
-	font-size: 13px;
-}
-
 textarea.ss-q-long {
 	resize: vertical;
 	height: 200px;
@@ -104,4 +97,22 @@ input[type="submit"]{
 
 .ss-form-question input.ss-q-other{
 	width: 200px;
+}
+
+
+.error,
+.required {
+	border: 2px solid #c43b1d;
+}
+
+.required-message,
+.error-message {
+	color: #c43b1d;
+	display: none;
+	font-size: 13px;
+}
+
+.required~.required-message,
+.error~.error-message {
+	display: block;
 }
