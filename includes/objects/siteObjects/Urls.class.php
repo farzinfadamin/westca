@@ -14,6 +14,11 @@
 			$siteUrls["homepage"] = LiteFrame::BuildActionUrl( "homepage" );
 			$siteUrls["about"] = LiteFrame::BuildActionUrl( "about" );
 			$siteUrls["contact"] = LiteFrame::BuildActionUrl( "contact" );
+			$siteUrls["plans"] = LiteFrame::BuildActionUrl( "plans" );
+			$siteUrls["register"] = LiteFrame::BuildActionUrl( "register" );
+			$siteUrls["google_form"] = LiteFrame::BuildActionUrl( "google-form" );
+			$siteUrls["plan_basic"] = LiteFrame::BuildActionUrl( "plan-basic" );
+			$siteUrls["plan_premium"] = LiteFrame::BuildActionUrl( "plan-premium" );
 			
 			$external = array();
 			$external["mexoinc"] = "http://www.mexoinc.com";
