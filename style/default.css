@@ -116,7 +116,7 @@ textarea{
 
 
 body{
-    background: #e2e2e2;
+    background: #111;
     color: #333;
     font-family: 'Montreal', Arial, sans-serif;
 	font-size: 14px;
@@ -258,7 +258,8 @@ a:link{
 }
 
 .main-content{
-	margin: 50px 0;
+	padding: 50px 0;
+    background: #e2e2e2;
 }
 
 .main-content.inner-page{

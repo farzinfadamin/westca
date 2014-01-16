@@ -87,9 +87,10 @@ input[type="submit"]{
 	background-color: #3cabbc;
 	border: 2px solid transparent;
 	color: #fff;
+	cursor: pointer;
 }
 
-.no-touch input[type="submit"]:hover{
+input[type="submit"]:hover{
 	border: 2px solid #3cabbc;
 	color: #3cabbc;
 	background: none;
@@ -115,4 +116,9 @@ input[type="submit"]{
 .required~.required-message,
 .error~.error-message {
 	display: block;
+}
+
+ul.ss-choices{
+	padding-left: 0;
+	list-style: none;
 }

@@ -22,8 +22,8 @@
 			
 			$external = array();
 			$external["mexoinc"] = "http://www.mexoinc.com";
-			$external["facebook"] = "https://www.facebook.com/";
-			$external["twitter"] = "https://twitter.com/";
+			$external["facebook"] = "https://www.facebook.com/pages/Westca/198573003682178";
+			$external["twitter"] = "https://twitter.com/westca1";
 			$external["youtube"] = "https://youtube.com/";
 			$external["instagram"] = "https://instagram.com/";
 			$external["gmap"] = "";
