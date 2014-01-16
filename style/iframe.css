@@ -4,9 +4,13 @@
 
  body.ss-base-body {
  	overflow: hidden;
- 	font-family: 'Montreal', Arial, sans-serif;
+ 	font-family: 'Montreal', Arial, sans-serif; 	
  }
 
+ .ss-form-container{
+ 	width: 90%;
+ 	margin: 0 5%;
+ }
 
 .dropbox-section{
 	margin: 30px auto;
