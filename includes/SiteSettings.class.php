@@ -20,8 +20,9 @@ class SiteSettings {
 	} /* </ SetTemplateColor > */
 	
 	public function setCoreJavascript(){
+		
 		LiteFrame::IncludeJavascript('default.js');
-		LiteFrame::IncludeJavascript('plugins.js');
+		
 		
 		if( LiteFrame::getActiveAction() === 'homepage'){
 			

@@ -2,6 +2,11 @@
    iFrame Styles
    ================== */
 
+ body.ss-base-body {
+ 	overflow: hidden;
+ }
+
+
 .dropbox-section{
 	margin: 30px auto;
 	text-align: center;
