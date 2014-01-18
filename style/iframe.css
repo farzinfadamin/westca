@@ -2,6 +2,14 @@
    iFrame Styles
    ================== */
 
+*,
+*:before,
+*:after{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
  body.ss-base-body {
  	overflow: hidden;
  	font-family: 'Montreal', Arial, sans-serif; 	

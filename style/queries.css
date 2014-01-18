@@ -99,7 +99,7 @@
 	.ss-form-question input[type="date"],
 	.ss-form-question input[type="email"],
 	.ss-form-question textarea{
-		width: 300px;
+		width: 300px !important;
 	}
 }
 
