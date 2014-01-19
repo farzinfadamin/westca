@@ -101,6 +101,14 @@
 	.ss-form-question textarea{
 		width: 300px !important;
 	}
+
+	.table-diet{
+		width: 90%;
+	}
+
+	.table-macronutrient{
+		width: 70%;
+	}
 }
 
 @media only screen and (min-width: 992px) {

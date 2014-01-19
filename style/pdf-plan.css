@@ -10,6 +10,21 @@
 	margin: 50px 0;
 }
 
+.plan-header{
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+}  
+
+.plan-header h2{
+	font-size: 35px;
+	margin: 1em 0 0;
+}
+
+.plan-header p{
+	font-size: 20px;
+	margin: 0 0 1em;
+}
+
 .box-plan{
 	position: relative;
 	max-width: 380px;
@@ -69,4 +84,133 @@
 
 .box-plan section .btn-big{
 	display: block;
+}
+
+.plan-content > h3{
+	font-size: 20px;
+}
+
+.table-container{
+	margin: 30px 0;
+}
+
+.table-container hgroup{
+	text-align: center;
+}
+
+.table-container hgroup h2{
+	font-size: 35px;
+	margin: 1em 0 0;
+}
+
+.table-container hgroup h5{
+	font-size: 20px;
+	margin: 0 0 1em;
+}
+
+.table-container h5 span{
+	margin: 0 20px;
+}
+
+
+.table-container table th{
+	font-family: "MontrealMedium";
+	font-weight: normal;
+}
+
+.table-bluestyle{
+	width: 100%;
+	border: 1px solid #ccc;
+	border-left: none;
+	margin: 0 auto;
+}
+
+.table-bluestyle tr th{
+	background-color: #D2E0E2;
+}
+
+.table-bluestyle tr td,
+.table-bluestyle tr th{
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+}
+
+.table-bluestyle tr td{
+	background-color: #f0f0f0;
+}
+
+.table-bluestyle tr:nth-child(odd) td{
+	background-color: #E7E7E7;
+}
+
+.table-bluestyle td li{
+	margin-bottom: 5px;
+}
+
+.table-bluestyle td label{
+	font-family: "MontrealMedium";
+	width: 100px;
+	display: inline-block;
+}
+
+.table-bluestyle h4{
+	margin-bottom: 0;
+}
+
+.table-macronutrient{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.table-macronutrient th{
+	width: 20%;
+	background-color: #C7E7CC;
+	border: 1px solid #ccc;
+}
+
+.table-macronutrient td{
+	text-align: center;
+	border: 1px solid #ccc;
+	background-color: #E0E9E2;
+}
+
+.table-macronutrient tr:nth-child(odd) td{
+	background-color: #f0f0f0;
+}
+
+.table-macronutrient td.head-color{
+	background-color: #C7E7CC !important;	
+	text-align: left;
+}
+
+.table-macronutrient td.head-color h4{
+	margin: 0;
+}
+
+.table-macronutrient tfoot tr:nth-child(odd) td{
+	text-align: left;
+	padding: 20px;
+}
+
+.table-macronutrient tfoot td h4{
+	margin: 5px 0 0;
+}
+
+.table-macronutrient tfoot td ul{
+	margin-bottom: 0;
+}
+
+.heading-row td{
+	background-color: #C7E7CC;
+	font-family: "MontrealMedium";
+	border: 0;
+}
+
+
+.col-days{
+	width: 20%;
+}
+
+.col-times{
+	width: 20%;
 }

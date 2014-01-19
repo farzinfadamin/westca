@@ -246,7 +246,8 @@ a:link{
 	background: none;
 }
 
-.check-list{
+.check-list,
+.bullet-list{
 	margin: 30px 0;
 }
 
@@ -254,6 +255,11 @@ a:link{
 	background: url("images/general/icon-tick.png") no-repeat left 2px transparent;
 	padding-left: 20px;
 	margin: 5px 0;
+}
+
+.bullet-list{
+    list-style: disc;
+    padding-left: 20px;
 }
 
 .main-content{
@@ -418,8 +424,8 @@ a:link{
     a[href^="javascript:"]:after,
     a[href^="#"]:after{
         content: "";
+        clear: both;
     }
-
     pre,
     blockquote{
         border: 1px solid #999;
@@ -454,4 +460,34 @@ a:link{
     h3{
         page-break-after: avoid;
     }
+
+    .main-menu{
+        display: none;
+    }
+
+    .logo{
+        float: none;
+        margin: 10px auto;
+    }
+
+    ul li{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .check-list li{
+        background: url("images/general/icon-tick.png") no-repeat left 2px transparent;
+        padding-left: 20px;
+        margin: 5px 0;
+        line-height: 20px;
+    }
+
+    .bullet-list{
+        list-style: disc;
+        padding-left: 20px;
+    }
+
+    .table-container {page-break-before: always;}
+
 }
